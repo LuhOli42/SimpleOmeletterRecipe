@@ -4,11 +4,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
-This is a CSS and HTML study for fix studied content
+This is a CSS, HTML and Mobile-first workflow study for fix studied content
 
 ### Links
 
-- Live Site URL:
+- Live Site URL: https://simple-omeletter-recipe.vercel.app/
 
 ### Built with
 
