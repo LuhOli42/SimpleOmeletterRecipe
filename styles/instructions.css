@@ -1,0 +1,29 @@
+.instructions {
+  color: var(--wenge-brown);
+  line-height: 1.3;
+}
+
+.instructions__title {
+  color: var(--nutmeg);
+  padding: 0.5em 0;
+  font-size: 36px;
+}
+
+.instructions__list {
+  font-family: var(--second-font);
+  padding: 0em 1.5em 1em;
+  list-style-type: decimal;
+}
+
+.instructions__list strong {
+  font-weight: 800;
+}
+
+.instructions__list-item {
+  padding: 0.5em;
+}
+
+.instructions__list-item::marker {
+  color: var(--nutmeg);
+  font-size: 0.8em;
+}

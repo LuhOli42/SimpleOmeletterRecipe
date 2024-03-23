@@ -1,0 +1,30 @@
+.preparation {
+  background-color: var(--rose-white);
+  font-family: var(--second-font);
+  line-height: 1.3;
+}
+
+.preparation__title {
+  padding: 1em;
+  color: var(--dark-raspberry);
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.preparation__list {
+  padding: 0em 3em 1em;
+  list-style-type: disc;
+  color: var(--wenge-brown);
+}
+
+.preparation__list strong {
+  font-weight: 800;
+}
+
+.preparation__list-item {
+  padding: 0.5em;
+}
+.preparation__list-item::marker {
+  color: var(--dark-raspberry);
+  font-size: 0.8em;
+}
